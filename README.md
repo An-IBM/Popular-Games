@@ -1,2 +1,8 @@
 # Popular-Games
-My top 10 games!
+The top games!
+Oblivion
+Skyrim
+Elden Ring
+Dark Souls
+Smash Brothers
+
